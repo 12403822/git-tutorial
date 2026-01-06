@@ -1,2 +1,2 @@
-print("Git Tutorial")
-print("Hannah Nadler")
+Git Tutorial
+Hannah Nadler
